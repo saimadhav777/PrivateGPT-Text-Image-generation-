@@ -47,6 +47,3 @@ Future Improvements
 Support for additional file types (e.g., PDFs, videos).
 Integration with advanced visualization tools.
 Enhanced model fine-tuning capabilities.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
